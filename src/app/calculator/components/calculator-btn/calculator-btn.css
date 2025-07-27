@@ -1,0 +1,7 @@
+@reference "tailwindcss";
+
+
+
+.is-command {
+  @apply bg-indigo-700/40 hover:bg-indigo-700/80;
+}
